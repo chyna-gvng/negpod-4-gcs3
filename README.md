@@ -5,8 +5,8 @@
 - If Statements
 
 #### Highlights:
-- Shell Scripting
-- If Staments(Python)
+- Shell Scripting (Python)
+- If Staments (Python)
 - Loops (Python)
 - Lists (Python)
 - Dictionary (Python)
